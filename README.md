@@ -2,7 +2,7 @@
 
 meu nome é Isabela Lopes Paulino
 
--Estou estudando no aulura 
+-Estou estudando no [aulura] 
 -Estou me desenvolvendo na linguagem javaScript
 -Utilizo esse espaço para minha organição e compartilhamento dos meus projetos desenvolvidos 
 
